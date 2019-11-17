@@ -2,7 +2,7 @@
 
 - This model came at 68th position
 
-![](images/Screenshot from 2019-11-14 08-04-02.png)
+![](images/rank.png)
  	
 # Model Overview
 
