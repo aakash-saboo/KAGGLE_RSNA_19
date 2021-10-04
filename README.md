@@ -2,7 +2,7 @@
 
 - This model came at 68th position
 
-![](images/rank.png)
+![](images/kaggle.png)
  	
 # Model Overview
 
